@@ -14,7 +14,7 @@
     <img alt="GitHub license" src="https://img.shields.io/badge/license-MIT-success?style=flat"></a>
 </p>
 
-<h3 align="center"> Project for donates blood, developed at MaratonaDev RocketSeat's. </h3>
+<h3 align="center"> Project developed at MaratonaDev RocketSeat's, for blood donor registration. </h3>
 
 <h3 align="center"><img src="images/html.png" alt="html" height="18"> HTML, <img src="images/css.png" alt="css" height="18"> CSS, <img src="images/js.png" alt="js" height="18"> JavaScript, <img src="images/postgresql.png" alt="postgresql" height="18"> PostgreSQL </h3>
 
@@ -49,5 +49,5 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-<p align="center">Feito com ❤️ por <strong>Anna Flávia Castro</p>
+<p align="center">Made with ❤️ by <strong>Anna Flávia Castro</p>
 
