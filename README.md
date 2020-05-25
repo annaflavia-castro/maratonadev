@@ -23,7 +23,7 @@
 ## Technologies and tools
 
 <ul>
-    <li><a href="https://nodejs.org/en/">NodeJS</a></li>
+    <li><a href="https://nodejs.org/en/">Node.js</a></li>
     <li><a href="https://expressjs.com/pt-br/">Express</a></li>
     <li><a href="https://www.npmjs.com/package/nodemon">Nodemon</a></li>
     <li><a href="https://www.npmjs.com/get-npm">Npm</a> or <a href="https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable">Yarn</a></li>
