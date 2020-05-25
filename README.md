@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/annaflavia-castro/be-the-hero.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/annaflavia-castro/maratonadev.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/annaflavia-castro/be-the-hero.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/annaflavia-castro/maratonadev.svg">
   
-  <a href="https://github.com/annaflavia-castro/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/annaflavia-castro/be-the-hero.svg"></a>
+  <a href="https://github.com/annaflavia-castro/maratonadev/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/annaflavia-castro/maratonadev.svg"></a>
   
-  <a href="https://github.com/annaflavia-castro/be-the-hero/blob/master/LICENSE">
+  <a href="https://github.com/annaflavia-castro/maratonadev/blob/master/LICENSE">
     <img alt="GitHub license" src="https://img.shields.io/badge/license-MIT-success?style=flat"></a>
 </p>
 
